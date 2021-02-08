@@ -1,0 +1,4 @@
+main_dir = ''  # here put your main path to dir for python project
+chrome_driver_path = '' # here put your path to driver
+git_username = '' # github email/username
+git_password = '' # github password
